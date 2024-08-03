@@ -1,0 +1,23 @@
+.parent{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+@media (min-width: 481px) and (max-width: 767px){
+    .parent{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
+
+.bg{
+    background-image: url(twitter.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+}
+
+.birdlogo{
+    height: 650px;
+}
