@@ -26,6 +26,6 @@ A responsive Twitter login page built using HTML, CSS, JavaScript, and Bootstrap
 
 
 
-## Authors
+## Author
 
 - [@samadaman](https://www.github.com/samadaman)
