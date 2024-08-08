@@ -16,10 +16,6 @@ A responsive Twitter login page built using HTML, CSS, JavaScript, and Bootstrap
  - JavaScript: For any dynamic interactions (if needed).
  - Bootstrap: Frontend framework for responsive design and components
 
-## Authors
-
-- [@samadaman](https://www.github.com/samadaman)
-
 
 ## Usage
 
@@ -29,3 +25,7 @@ A responsive Twitter login page built using HTML, CSS, JavaScript, and Bootstrap
 | **Bootstrap** |   
 
 
+
+## Authors
+
+- [@samadaman](https://www.github.com/samadaman)
